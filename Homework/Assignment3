@@ -1,0 +1,47 @@
+//Program to compute the cost of long-distance call
+#include <iostream>
+using namespace std;
+
+//This program outputs the cost of the call
+
+int mian ()
+{
+    double cost;
+    int minute;
+    int day;
+    
+    cout << "Enter cost $";
+    cin >> time;
+    time 1pm=13pm;
+    time 2pm=14pm
+    time 3pm=15pm
+    time 4pm=16pm
+    time 5pm=17pm
+    time 6pm=18pm
+    time 7pm=19pm
+    time 8pm=20pm
+    time 9pm=21pm
+    time 10pm=22pm
+    time 11pm-23pm
+    time 12am=24am
+    cin >> day;(Mo Tu We Th Fr Sa Su);
+}
+{
+    case1:
+        cout << "call between 8:00am and 6:00pm" "Monday through Friday"
+        cost = 0.40
+        break;
+    case2:
+        cout << "call before 8:00am or after 6:00pm" "Monday through Friday"
+        cost = 0.25
+        break;
+    case3:
+        cout << "call on Saturday or Sunday"
+        cost 0.15
+        break;
+    default:
+        cout << "cost of long-distance call"; << endl;
+}
+ 
+    return 0;
+}
